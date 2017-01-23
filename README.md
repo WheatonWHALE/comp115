@@ -1,8 +1,8 @@
 # Robots, Games, and Problem Solving
 
-Professor [Tom Armstrong](http://tarmstro.github.io/), Wheaton College, Spring 2017
-
-Course Site: [http://bit.ly/comp115](http://bit.ly/comp115)
+* Professor [Tom Armstrong](http://tarmstro.github.io/), Wheaton College, Spring 2017
+* Course Site: [http://bit.ly/comp115](http://bit.ly/comp115)
+* Slack Information: [wheaton115][https://wheaton115.slack.com/signup]
 
 #### Meeting Information:
 
