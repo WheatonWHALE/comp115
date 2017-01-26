@@ -41,7 +41,7 @@ N.B. Use the back and forward arrows at the bottom of the page to advance textbo
 Week  | Topic | Reading
 ------------- | ------------- | -------------
 01 (25 Jan) | Introduction | [Introduction](http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/intro-TheWayoftheProgram.html)
-02 (30 Jan & 01 Feb) | Data Types | [Variables, Expressions, and Statements](http://interactivepython.org/runestone/static/thinkcspy/SimplePythonData/intro-VariablesExpressionsandStatements.html)
+02 (30 Jan & 01 Feb) | Data Types | [Simple Python Data](http://interactivepython.org/runestone/static/thinkcspy/SimplePythonData/intro-VariablesExpressionsandStatements.html)
 03 (06 Feb & 08 Feb) | Strings | [Strings](http://interactivepython.org/runestone/static/thinkcspy/Strings/StringsRevisited.html)
 04 (13 Feb & 15 Feb) | Lists | [Lists](http://interactivepython.org/runestone/static/thinkcspy/Lists/intro-Lists.html)
 05 (20 Feb & 22 Feb)| Functions | [Functions](http://interactivepython.org/runestone/static/thinkcspy/Functions/functions.html)
