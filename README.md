@@ -6,7 +6,7 @@
 
 #### Meeting Information:
 
-* Meeting Times: MW at 3:30 - 4:50 in SC1315
+* Meeting Times: MW at 3:30 - 4:50
 * Office Hours: Tu at 2:00 - 3:30 and by appointment
 
 #### Catalog Description:
